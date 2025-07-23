@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 import Dashboard from './component/Dashboard';
 import Login from './component/Login';
 import Navbar from './component/Navbar';
 import SignUp from './component/SignUp';
 import './style.css';
+
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
